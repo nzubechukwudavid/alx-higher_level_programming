@@ -1,1 +1,1 @@
-Learning Python with ALX
+This directory contains introductory tasks to python.
